@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aprova Brasil</string>
+    <string name="button_lancar_resposta">Lançar resposta</string>
+    <string name="botao_confirmar_resposta">Confirmar respostas</string>
+</resources>
